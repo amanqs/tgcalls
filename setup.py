@@ -158,7 +158,7 @@ setup(
     author='Il`ya Semyonov',
     author_email='ilya@marshal.dev',
     license='LGPLv3',
-    url='https://github.com/MarshalX/tgcalls',
+    url='https://github.com/amanqs/tgcalls',
     keywords='python, library, telegram, async, asynchronous, webrtc, lib, voice-chat, '
     'voip, group-chat, video-call, calls, pyrogram, telethon, pytgcalls, tgcalls',
     description='a Python binding for tgcalls C++ library',
